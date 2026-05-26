@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@azure/ai-projects": "^2.1.1",
+    "@azure/identity": "^4.13.1",
     "ai": "^6.0.184",
     "next": "16.2.6",
     "openai": "^6.38.0",
